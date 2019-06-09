@@ -1,0 +1,100 @@
+CATS Baby hisses at Roxy 120ms 94ms 86402 views 
+SPORTS Kobe plays hokey with Chance 56ms 37ms 32200 views 
+CATS Smokey kisses Baxter 104ms 104ms 57719 views 
+DOGS Lola barks at Oliver 34ms 34ms 17174 views 
+CATS Angel chases Lucky 85ms 85ms 65972 views 
+SPORTS Ellie pitches for Teddy 109ms 96ms 33254 views 
+DOGS Jake eats lunch with Lucy 126ms 108ms 87693 views 
+DOGS Frankie hides from Oscar 85ms 76ms 72561 views 
+SPORTS Simba bikes with Frankie 35ms 11ms 55663 views 
+DOGS Bruno eats lunch with Angel 66ms 55ms 30589 views 
+CATS Whiskers plays ball with Copper 49ms 40ms 47441 views 
+CATS Puffball has breakfast with Rudy 128ms 114ms 50138 views 
+DOGS Benny eats lunch with Chloe 84ms 55ms 25389 views 
+DOGS Frankie chases Molly 63ms 53ms 39281 views 
+CATS Molly plays ball with Apollo 123ms 112ms 90764 views 
+SPORTS Zeus plays soccer with Bruno 66ms 47ms 7486 views 
+DOGS King shares breakfast with Chester 52ms 32ms 39858 views 
+CATS Molly plays with Romeo 64ms 53ms 90582 views 
+DOGS Bear catches Belle 63ms 59ms 56396 views 
+SPORTS Bo plays baseketball with Cookie 51ms 28ms 57607 views 
+CATS Chole eats dinner with Oreo 38ms 18ms 63519 views 
+SPORTS Walter goes fishing with Otis 44ms 36ms 45679 views 
+DOGS Bruce hides from Oliver 112ms 94ms 57940 views 
+CATS Lucy bites Max 105ms 87ms 14032 views 
+CATS Lucy shares toy with Riley 50ms 22ms 81729 views 
+DOGS Luna hides toy from Tiger 94ms 94ms 34201 views 
+DOGS Jasper plays with Sam 32ms 21ms 23587 views 
+DOGS Samson hides from Puffball 77ms 72ms 15361 views 
+DOGS Brutus catches Shadow 70ms 51ms 69487 views 
+SPORTS Shadow rockclimbs with Teddy 44ms 17ms 9779 views 
+CATS Whiskers shares lunch with Henry 119ms 109ms 13773 views 
+SPORTS Rocco hikes with Odin 118ms 115ms 20657 views 
+CATS Tigger pounces on Jake 111ms 91ms 70989 views 
+SPORTS Gizmo hikes with Samson 55ms 52ms 75958 views 
+DOGS Otis plays with Sylvester 80ms 78ms 47424 views 
+SPORTS Chance rockclimbs with Charlie 60ms 39ms 57374 views 
+SPORTS Maverick plays tennis with Walter 74ms 49ms 45676 views 
+SPORTS Chewy bikes with Oliver 84ms 81ms 38671 views 
+CATS Smokey hides from Benny 48ms 39ms 19366 views 
+CATS Cleo fights with Thor 40ms 40ms 24428 views 
+CATS Sylvester bites Rusty 39ms 30ms 90784 views 
+DOGS Oreo hides from Lucy 76ms 58ms 87553 views 
+CATS Casper fights with Frankie 52ms 34ms 75171 views 
+CATS Tigger bites Ziggy 105ms 91ms 28100 views 
+SPORTS Chase plays quidditch with Beau 30ms 3ms 58576 views 
+SPORTS Roxy bikes with Teddy 40ms 12ms 93697 views 
+DOGS Loki chases Smokey 48ms 21ms 46953 views 
+DOGS Samantha plays with Casper 38ms 30ms 80274 views 
+CATS Lucy shares toy with Brody 119ms 118ms 64310 views 
+DOGS Henry chases Kitty 73ms 67ms 86123 views 
+SPORTS Ellie hikes with George 127ms 100ms 90504 views 
+SPORTS Cookie swims with Rusty 49ms 47ms 51911 views 
+SPORTS Brody plays volleyball with Kobe 92ms 76ms 15120 views 
+CATS Belle catches Chewy 89ms 70ms 9639 views 
+DOGS Copper plays with Sylvester 66ms 66ms 44255 views 
+SPORTS Jasper goes fishing with Bruce 53ms 31ms 43498 views 
+SPORTS Roscoe pitches for Prince 87ms 63ms 58602 views 
+CATS Cleo hides toy from Boomer 53ms 44ms 1802 views 
+DOGS Luna plays with Whiskers 79ms 75ms 2580 views 
+CATS Charlie bites Jasper 90ms 76ms 30325 views 
+SPORTS Charlie hikes with Riley 59ms 57ms 72144 views 
+SPORTS Brutus plays football with Samantha 53ms 37ms 96072 views 
+CATS Kitty plays ball with Frankie 118ms 111ms 18272 views 
+DOGS Lucky plays ball with Molly 69ms 62ms 73172 views 
+SPORTS Chewy snowboards with Blue 87ms 78ms 33197 views 
+CATS Puffball kisses Cash 45ms 19ms 80536 views 
+DOGS Samantha hides toy from Puffball 110ms 81ms 67040 views 
+SPORTS Kobe skateboards with Mickey 118ms 94ms 36452 views 
+SPORTS Benny catches for Bailey 111ms 110ms 62959 views 
+DOGS Gus plays ball with Charlie 54ms 44ms 48498 views 
+CATS Oreo bites Ellie 107ms 101ms 63274 views 
+CATS Kitty bites Duke 120ms 119ms 16813 views 
+DOGS Lucky chases Charlie 81ms 77ms 84810 views 
+DOGS Koda has dinner with Cleo 33ms 7ms 14144 views 
+CATS Cleo bites Rusty 90ms 75ms 49489 views 
+CATS Lady bites Cash 34ms 22ms 74393 views 
+SPORTS Lola plays soccer with Otis 121ms 109ms 75873 views 
+SPORTS Samantha hikes with Leo 129ms 109ms 77158 views 
+DOGS Rocco plays ball with Sylvester 89ms 89ms 43592 views 
+SPORTS Boomer plays baseketball with Moose 104ms 97ms 24233 views 
+CATS Samantha plays with Ellie 44ms 27ms 46353 views 
+CATS Chester kisses Buddy 123ms 94ms 4963 views 
+SPORTS Teddy plays hokey with Kobe 116ms 90ms 68353 views 
+SPORTS Beau cycles with Coco 106ms 82ms 38666 views 
+DOGS Dexter hides from Kitty 52ms 30ms 77497 views 
+SPORTS Lucky skateboards with Sam 89ms 76ms 7986 views 
+CATS Tiger kisses Zeus 115ms 112ms 45873 views 
+DOGS Beau fights with Kitty 99ms 91ms 31551 views 
+DOGS Winston plays ball with Belle 81ms 81ms 97407 views 
+DOGS Gus chases Max 93ms 72ms 11368 views 
+DOGS Coco fights with Kitty 59ms 56ms 95288 views 
+DOGS George shares breakfast with Casper 65ms 52ms 85667 views 
+DOGS Sam barks at Kitty 125ms 103ms 40680 views 
+DOGS Rocco has dinner with Chole 98ms 82ms 37246 views 
+SPORTS King surfs with Chance 52ms 51ms 3110 views 
+SPORTS Copper snowboards with Maverick 74ms 53ms 5888 views 
+DOGS Finn chases Oscar 61ms 44ms 6352 views 
+DOGS Luke shares toy with Oliver 67ms 41ms 71977 views 
+DOGS Tyson plays ball with Lucy 121ms 100ms 32282 views 
+DOGS Brady hides from Casper 56ms 45ms 57667 views 
