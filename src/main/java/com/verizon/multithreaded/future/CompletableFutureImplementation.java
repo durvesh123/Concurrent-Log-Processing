@@ -10,14 +10,15 @@ public class CompletableFutureImplementation {
 
     private final ExecutorService executorService;
     private final int concurrencyFactor;
+    private final SingleThreadedVideoStatistics svs;
 
     public CompletableFutureImplementation(int concurrencyFactor) {
         this.concurrencyFactor = concurrencyFactor;
         this.executorService = Executors.newFixedThreadPool(concurrencyFactor);
+        this.svs = new SingleThreadedVideoStatistics();
     }
 
     public List<Statistics> sortedByNumberOfViews( List<String> input ) {
-        SingleThreadedVideoStatistics svs = new SingleThreadedVideoStatistics();
         Future<List<Statistics>> completableFuture = new CompletableFuture<>();
         completableFuture = executorService.submit(new Callable<List<Statistics>>() {
             @Override
@@ -38,7 +39,6 @@ public class CompletableFutureImplementation {
 
 
     public List<Statistics> sortedByCategoryTitleVideoLength( List<String> input ) {
-        SingleThreadedVideoStatistics svs = new SingleThreadedVideoStatistics();
         Future<List<Statistics>> completableFuture = new CompletableFuture<>();
         completableFuture = executorService.submit(new Callable<List<Statistics>>() {
             @Override
@@ -58,7 +58,6 @@ public class CompletableFutureImplementation {
     }
 
     public List<Statistics> videosWatchedOver50Percent( List<String> input ) {
-        SingleThreadedVideoStatistics svs = new SingleThreadedVideoStatistics();
         Future<List<Statistics>> completableFuture = new CompletableFuture<>();
         completableFuture = executorService.submit(new Callable<List<Statistics>>() {
             @Override

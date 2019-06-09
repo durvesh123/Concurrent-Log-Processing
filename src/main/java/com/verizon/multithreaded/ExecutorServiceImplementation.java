@@ -11,14 +11,15 @@ public class ExecutorServiceImplementation {
 
     private final ExecutorService executorService;
     private final int concurrencyFactor;
+    private final SingleThreadedVideoStatistics svs;
 
     public ExecutorServiceImplementation(int concurrencyFactor) {
         this.concurrencyFactor = concurrencyFactor;
         this.executorService = Executors.newFixedThreadPool(this.concurrencyFactor);
+        this.svs = new SingleThreadedVideoStatistics();
     }
 
     public void sortedByNumberOfViews( List<String> input ) {
-        SingleThreadedVideoStatistics svs = new SingleThreadedVideoStatistics();
         executorService.submit(new Runnable() {
             @Override
             public void run() {
@@ -28,7 +29,6 @@ public class ExecutorServiceImplementation {
     }
 
     public void sortedByCategoryTitleVideoLength( List<String> input ) {
-        SingleThreadedVideoStatistics svs = new SingleThreadedVideoStatistics();
         executorService.submit(new Runnable() {
             @Override
             public void run() {
@@ -38,7 +38,6 @@ public class ExecutorServiceImplementation {
     }
 
     public void videosWatchedOver50Percent( List<String> input ) {
-        SingleThreadedVideoStatistics svs = new SingleThreadedVideoStatistics();
         executorService.submit(new Runnable() {
             @Override
             public void run() {
@@ -46,7 +45,6 @@ public class ExecutorServiceImplementation {
             }
         });
     }
-
 
     public void stopExecution() {
         executorService.shutdown();
